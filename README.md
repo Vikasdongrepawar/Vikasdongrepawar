@@ -15,6 +15,12 @@
 
 ### Languages and Tools:
 <p align="left">
+  <p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="30" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="30" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JS" width="30" height="30"/>
+</p>
+
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="30"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="30"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30"/>
